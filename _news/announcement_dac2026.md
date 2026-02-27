@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted to <a href="https://www.dac.com/">DAC 2026</a> (CCF-A). Exciting news!
+🎉 Three papers accepted to <a href="https://www.dac.com/"><strong>DAC 2026</strong></a> (CCF-A)! Thrilled to share this exciting news!
