@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. candidate at the School of Integrated Circuits Science and Engineering, [**Beihang University**](https://ev.buaa.edu.cn/), advised by Prof. [**Yuanqi Hu**](https://shi.buaa.edu.cn/huyuanqi/en/index.htm) (Sept 2025, expected graduation 2030). My research focuses on **AI for EDA**, with particular interests in analog circuit optimization, transistor sizing, and Bayesian optimization.
+I am a Ph.D. candidate at the School of Integrated Circuits Science and Engineering, [**Beihang University**](https://ev.buaa.edu.cn/), advised by Prof. [**Yuanqi Hu**](https://shi.buaa.edu.cn/yuanqihu86/en/index.htm) (Sept 2025, expected graduation 2030). My research focuses on **AI for EDA**, with particular interests in analog circuit optimization, transistor sizing, and Bayesian optimization.
 
 I received my Bachelor of Engineering from the School of Mechanical, Electrical and Control Engineering, **Shenzhen University** (Sept 2021 – Jul 2025)
 
