@@ -440,15 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-three-papers-accepted-to-dac-2026-ccf-a-exciting-news",
+            },},{id: "news-three-papers-accepted-to-dac-2026-ccf-a-exciting-news",
           title: 'Three papers accepted to DAC 2026 (CCF-A). Exciting news!',
           description: "",
           section: "News",},{id: "projects-project-1",
