@@ -32,3 +32,5 @@ I am a Ph.D. candidate at the School of Integrated Circuits Science and Engineer
 I received my Bachelor of Engineering from the School of Mechanical, Electrical and Control Engineering, **Shenzhen University** (Sept 2021 – Jul 2025)
 
 My research has been published at top EDA venues including **DAC** (CCF-A), **ICCAD** (CCF-B), and **ICCD** (CCF-B, Best Paper Candidate). I am committed to developing efficient, generalizable optimization frameworks that bridge machine learning and circuit design automation.
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fboxiaolzh.github.io%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fboxiaolzh.github.io%2F&countColor=%23263759" /></a>
