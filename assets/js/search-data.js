@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-three-papers-accepted-to-dac-2026-ccf-a-thrilled-to-share-this-exciting-news",
-          title: '🎉 Three papers accepted to DAC 2026 (CCF-A)! Thrilled to share this exciting...',
+            },},{id: "news-three-papers-accepted-to-dac-2026-ccf-a",
+          title: '🎉 Three papers accepted to DAC 2026 (CCF-A)!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
