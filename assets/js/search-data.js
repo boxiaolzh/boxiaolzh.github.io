@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-papers-accepted-to-iccad-2025-ccf-b",
+            },},{id: "news-one-paper-accepted-to-dac-2024-ccf-a",
+          title: '🎉 One paper accepted to DAC 2024 (CCF-A)!',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-iccad-2025-ccf-b",
           title: '🎉 Two papers accepted to ICCAD 2025 (CCF-B)!',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-to-iccd-2025-ccf-b-as-best-paper-candidate",
