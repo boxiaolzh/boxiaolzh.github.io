@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   mxXNJltZZ_UC:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: Exploiting Function-Family Structure in Analog Circuit Optimization
     year: '2025'
+  mxXNJltZZ_UC:IjCSPb-OGe4C:
+    citations: 0
+    title: 'OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM'
+    year: '2026'
   mxXNJltZZ_UC:UeHWp8X0CEIC:
     citations: 0
     title: 'Automated Parameter Tuning for Multi-FPGA Partitioning: A Preference-Guided Approach'
