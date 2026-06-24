@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-24'
 papers:
   mxXNJltZZ_UC:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Exploiting Function-Family Structure in Analog Circuit Optimization
     year: '2025'
   mxXNJltZZ_UC:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: 'OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM'
     year: '2026'
   mxXNJltZZ_UC:UeHWp8X0CEIC:
@@ -26,10 +26,14 @@ papers:
     title: 'ASTRA: Automatic Sizing of Transistors with Reasoning Agents'
     year: '2025'
   mxXNJltZZ_UC:u-x6o8ySG0sC:
-    citations: 3
+    citations: 5
     title: 'OpenYield: An Open-Source SRAM Yield Analysis and Optimization Benchmark Suite'
     year: '2025'
   mxXNJltZZ_UC:u5HHmVD_uO8C:
     citations: 10
     title: 'Kato: Knowledge alignment and transfer for transistor sizing of different design and technology'
     year: '2024'
+  mxXNJltZZ_UC:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'OpenOpt: An Open-Source SRAM Optimizer Based on Equivalent Circuit Model'
+    year: '2026'
