@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-02'
 papers:
   mxXNJltZZ_UC:2osOgNQ5qMEC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: 'ASTRA: Automatic Sizing of Transistors with Reasoning Agents'
     year: '2025'
   mxXNJltZZ_UC:u-x6o8ySG0sC:
-    citations: 7
+    citations: 8
     title: 'Openyield: An open-source sram yield analysis and optimization benchmark suite'
     year: '2025'
   mxXNJltZZ_UC:u5HHmVD_uO8C:
